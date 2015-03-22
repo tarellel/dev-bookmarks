@@ -42,7 +42,7 @@
 
 ####Misc
 | Application | Description | URL |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | [bloccit-rails-4](https://github.com/ShinobiDevs/bloccit-rails-4) | Yet another Reddit clone ||
 | [nolotiro.org](https://github.com/alabs/nolotiro.org) | I believe it's somewhat of a garage sale and junk listing site. | [nolotiro.org](nolotiro.org) |
 | [gpucc](https://github.com/heisler3030/gpucc) | A fitness and training application||
