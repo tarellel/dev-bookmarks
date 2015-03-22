@@ -1,8 +1,8 @@
 ## Ruby on Rails
-* [Generators](#generators)
-* [Open-Sourced Apps](#apps)
-* [Misc Apps](#misc)
-* [Engines](#engines)
+- **[Generators](#generators)**
+- **[Open-Sourced Apps](#apps)**
+- **[Misc Apps](#misc)**
+- **[Engines](#engines)**
 
 ####Generators
 | Generators | Description |

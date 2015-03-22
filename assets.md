@@ -1,8 +1,8 @@
 ## Assets
-* [CDNs](#cdns)
-* [IconFonts](#IconFonts)
-* [StockImages](#stockimages)
-* [StockImage Lists](#ImageListings)
+- **[CDNs](#cdns)**
+- **[IconFonts](#IconFonts)**
+- **[StockImages](#stockimages)**
+- **[StockImage Lists](#ImageListings)**
 
 ####CDNs
 * [Bootstrap CDN](http://www.bootstrapcdn.com/)
