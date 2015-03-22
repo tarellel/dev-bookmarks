@@ -18,9 +18,16 @@
 * [BootstrapTaste](http://bootstraptaste.com/)
 * [Start Bootstrap](http://startbootstrap.com/)
 
+####UI Kits
+* [Bootflat](https://bootflat.github.io/)
+* [Flat-UI](https://designmodo.github.io/Flat-UI/)
+* [Get Shit Done Kit](http://www.creative-tim.com/product/get-shit-done-kit)
+* [PixelKit](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits/)
+
 ####Varients
 * [kickstart](http://getkickstart.com/)
 * [Jasny](https://jasny.github.io/bootstrap/)
+
 
 
 ####Color Pallets
