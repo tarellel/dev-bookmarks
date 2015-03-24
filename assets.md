@@ -10,6 +10,7 @@
 * [Google CDN](https://developers.google.com/speed/libraries/devguide?csw=1)
 * [JSDelivr](http://www.jsdelivr.com/)
 * [Microsoft CDN](http://www.asp.net/ajax/cdn)
+* [Octicons](https://octicons.github.com/)
 * [OSSCDN](http://osscdn.com/#/)
 
 ####IconFonts
