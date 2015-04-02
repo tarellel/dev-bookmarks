@@ -13,6 +13,7 @@
 ####Apps
 | Application | Description | URL |
 | ----------- | ----------- | ----------- |
+| [codewall](https://github.com/assemblymade/coderwall) | A network for software engineers | https://coderwall.com/welcome |
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed social networking | [diasporafoundation.org](https://diasporafoundation.org/) |
 | [discourse](https://github.com/discourse/discourse) | An open source community discussion platform (forum and discussion). ||
 | [Empirical-Core](https://github.com/empirical-org/Empirical-Core) | An app for managing students, assigning activities, and viewing results ||
