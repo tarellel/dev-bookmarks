@@ -13,6 +13,7 @@
 ####Apps
 | Application | Description | URL |
 | ----------- | ----------- | ----------- |
+| [catarse](https://github.com/catarse/catarse) | open source crowdfunding platform for creative projects | http://catarse.me |
 | [codewall](https://github.com/assemblymade/coderwall) | A network for software engineers | https://coderwall.com/welcome |
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed social networking | [diasporafoundation.org](https://diasporafoundation.org/) |
 | [discourse](https://github.com/discourse/discourse) | An open source community discussion platform (forum and discussion). ||
