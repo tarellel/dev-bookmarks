@@ -3,6 +3,7 @@
 - **[Open-Sourced Apps](#apps)**
 - **[Misc Apps](#misc)**
 - **[Engines](#engines)**
+- - **[Templates](#templates)**
 
 ####Generators
 | Generators | Description |
@@ -44,9 +45,6 @@
 
 
 
-
-
-
 ####Misc
 | Application | Description | URL |
 | ----------- | ----------- | ----------- |
@@ -66,3 +64,8 @@
 | [locomotivecms](https://github.com/locomotivecms/engine) | A platform to create, publish and edit sites [locomotivecms.com](http://www.locomotivecms.com/) |
 | [roroacms](https://github.com/roroacms/roroacms) | A small yet powerful CMS |
 | [spree](https://github.com/spree/spree) | A Rails based e-commerce solution |
+
+####Templates
+| Template/URL | Description |
+| ----------- | ----------- |
+| (mattbrictson/rails-template)[https://github.com/mattbrictson/rails-template] | A full stack application template for Rails 4.2 projects |
