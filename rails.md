@@ -68,4 +68,4 @@
 ####Templates
 | Template/URL | Description |
 | ----------- | ----------- |
-| (mattbrictson/rails-template)[https://github.com/mattbrictson/rails-template] | A full stack application template for Rails 4.2 projects |
+| [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) | A full stack application template for Rails 4.2 projects |
