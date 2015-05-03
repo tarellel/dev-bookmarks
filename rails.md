@@ -3,7 +3,7 @@
 - **[Open-Sourced Apps](#apps)**
 - **[Misc Apps](#misc)**
 - **[Engines](#engines)**
-- - **[Templates](#templates)**
+- **[Templates](#templates)**
 
 ####Generators
 | Generators | Description |
