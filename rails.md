@@ -10,6 +10,11 @@
 | [RailsBricks](http://www.railsbricks.net/) | Automate mundane setup tasks |
 | [RailsApps/rails-composer](https://github.com/RailsApps/rails-composer) | The Rails generator on steroids for starter apps |
 
+####Gem Lists
+| URL | Description |
+| ----------- | ----------- |
+| [awesome-activerecord](https://github.com/planetruby/awesome-activerecord) | Gems associated with ActiveRecord |
+
 ####Apps
 | Application | Description | URL |
 | ----------- | ----------- | ----------- |
