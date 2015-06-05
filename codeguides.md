@@ -1,1 +1,1 @@
-[http://codeguide.co/](Standards for HTML and CSS)
+[Standards for HTML and CSS](http://codeguide.co/)
