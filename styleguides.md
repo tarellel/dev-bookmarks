@@ -7,6 +7,10 @@
 [Standards for HTML and CSS](http://codeguide.co/)
 
 
+### Jascascript
+[Airbnb - JavaScript Style Guide ](https://github.com/airbnb/javascript)
+
+
 ### Ruby/Rails
 [airbnb/ruby](https://github.com/airbnb/ruby)
 
