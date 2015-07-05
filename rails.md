@@ -43,6 +43,8 @@
 | [updn](https://github.com/aaron-lebo/updn) | A Reddit like submission application, where functions are based on bitcoins ||
 | [yumhacker](https://github.com/jendewalt/yumhacker) | An application to find and share awesome restaurants! | [yumhacker.com](http://yumhacker.com/) |
 
+[awesome-rails](https://github.com/ekremkaraca/awesome-rails)
+
 
 
 ####Misc
