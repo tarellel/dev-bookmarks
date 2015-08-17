@@ -11,6 +11,10 @@
 [Airbnb - JavaScript Style Guide ](https://github.com/airbnb/javascript)
 
 
+### Misc
+[Linux Coding Style](https://www.kernel.org/doc/Documentation/CodingStyle)
+
+
 ### Ruby/Rails
 [airbnb/ruby](https://github.com/airbnb/ruby)
 
