@@ -74,6 +74,8 @@
 | [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) | A full stack application template for Rails 4.2 projects |
 
 ####Lists
-[awesome-ruby](https://github.com/markets/awesome-ruby)
-
-[awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
+| Collection Name | Description |
+| ----------- | ----------- |
+| [awesome-ruby](https://github.com/markets/awesome-ruby) | A collection of awesome Ruby libraries, tools, frameworks and software |
+| [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) | A collection of awesome Ruby Gems for Rails development. |
+| [rails_stuff](https://github.com/printercu/rails_stuff) | Collection of useful modules for Rails |
