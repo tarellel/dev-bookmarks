@@ -4,6 +4,7 @@
 - **[Misc Apps](#misc)**
 - **[Engines](#engines)**
 - **[Templates](#templates)**
+- **[Lists](#lists)**
 
 ####Generators
 | Generators | Description |
@@ -71,3 +72,7 @@
 | Template/URL | Description |
 | ----------- | ----------- |
 | [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) | A full stack application template for Rails 4.2 projects |
+
+####Lists
+[awesome-ruby](https://github.com/markets/awesome-ruby)
+[awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
