@@ -3,7 +3,8 @@
 
 ### HTML & CSS
 [Attribute Modules for CSS](https://amcss.github.io/)
-[GSA CSS Styleguide] (https://pages.18f.gov/frontend/css-coding-styleguide/)
+
+[GSA CSS Styleguide](https://pages.18f.gov/frontend/css-coding-styleguide/)
 
 [Standards for HTML and CSS](http://codeguide.co/)
 
