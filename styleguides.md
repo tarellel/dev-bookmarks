@@ -4,6 +4,8 @@
 ### HTML & CSS
 [Attribute Modules for CSS](https://amcss.github.io/)
 
+[CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+
 [GSA CSS Styleguide](https://pages.18f.gov/frontend/css-coding-styleguide/)
 
 [Standards for HTML and CSS](http://codeguide.co/)
