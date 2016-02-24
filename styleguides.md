@@ -22,7 +22,7 @@
 ### Ruby/Rails
 [airbnb/ruby](https://github.com/airbnb/ruby)
 
-[bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+[bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide) - The offical community driven Rails Style Guide
 
 [davetron5000's Ruby Style Guide](http://naildrivin5.com/ruby-style/)
 
