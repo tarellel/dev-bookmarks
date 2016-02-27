@@ -2,6 +2,12 @@
 [thoughtbot/guides](https://github.com/thoughtbot/guides)
 
 ### HTML & CSS
+[CSS Styleguide](http://codeguide.co/#css) - Standards for developing flexible, durable, and sustainable HTML and CSS
+
+[CSS Guidelines](http://cssguidelin.es/) - General CSS Styleguide
+
+[idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS
+
 [Attribute Modules for CSS](https://amcss.github.io/)
 
 [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
