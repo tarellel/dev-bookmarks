@@ -2,7 +2,7 @@
 [thoughtbot/guides](https://github.com/thoughtbot/guides)
 
 ### HTML & CSS
-[CSS Styleguide](http://codeguide.co/) - Standards for developing flexible, durable, and sustainable HTML and CSS
+[HTML & CSS Styleguide](http://codeguide.co/) - Standards for developing flexible, durable, and sustainable HTML and CSS
 
 [CSS Guidelines](http://cssguidelin.es/) - General CSS Styleguide
 
