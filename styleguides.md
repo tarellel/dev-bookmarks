@@ -19,7 +19,7 @@
 [Dropbox CSS Styleguide](https://github.com/dropbox/css-style-guide)
 
 
-### Jascascript
+### Javascript
 [Airbnb - JavaScript Style Guide ](https://github.com/airbnb/javascript)
 
 
