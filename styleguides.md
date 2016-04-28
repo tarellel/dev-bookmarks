@@ -26,7 +26,9 @@
 ### Misc
 [Linux Coding Style](https://www.kernel.org/doc/Documentation/CodingStyle)
 
-[Changelog](http://keepachangelog.com/)
+[Changelog](http://keepachangelog.com/) - Guidelines on keeping a well written, human readable, and chronologically ordered changelog.
+
+[Semantic Versioning](http://semver.org/) - A simple and standardized versioning system for software development.
 
 
 ### Ruby/Rails
