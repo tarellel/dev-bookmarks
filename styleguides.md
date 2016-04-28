@@ -26,6 +26,8 @@
 ### Misc
 [Linux Coding Style](https://www.kernel.org/doc/Documentation/CodingStyle)
 
+[Changelog](http://keepachangelog.com/)
+
 
 ### Ruby/Rails
 [airbnb/ruby](https://github.com/airbnb/ruby)
