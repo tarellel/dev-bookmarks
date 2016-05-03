@@ -18,6 +18,8 @@
 
 [Dropbox CSS Styleguide](https://github.com/dropbox/css-style-guide)
 
+[Sass-reference](https://github.com/kaelig/Sass-reference)
+
 
 ### Javascript
 [Airbnb - JavaScript Style Guide](https://github.com/airbnb/javascript)
