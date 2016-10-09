@@ -58,3 +58,8 @@
 [styleguide/ruby](https://github.com/styleguide/ruby)
 
 [xaviershay](https://xaviershay.github.io/writing/docs/ruby_style_guide.html)
+
+
+### SQL Style Guides
+[SQL Style Guide
+by Simon Holywell](http://www.sqlstyle.guide/)
