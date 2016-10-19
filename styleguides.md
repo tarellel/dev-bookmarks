@@ -1,3 +1,6 @@
+### Official Guidelines
+[Sass Guidelines](https://sass-guidelin.es/)
+
 ### Multi
 [thoughtbot/guides](https://github.com/thoughtbot/guides)
 
