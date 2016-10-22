@@ -48,6 +48,8 @@
 
 [Semantic Versioning](http://semver.org/) - A simple and standardized versioning system for software development.
 
+### Design/Photoshop
+[http://photoshopetiquette.com/](Photoshop Etiquette)
 
 ### Ruby/Rails
 [airbnb/ruby](https://github.com/airbnb/ruby)
