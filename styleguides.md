@@ -5,7 +5,7 @@
 [thoughtbot/guides](https://github.com/thoughtbot/guides)
 
 ### Accessibility
-[Google Accessibility Guidelines](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules
+[Google Accessibility Guidelines](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules)
 
 ### HTML & CSS
 [Google HTML/CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
