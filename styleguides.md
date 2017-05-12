@@ -43,6 +43,8 @@
 ### Javascript
 [Airbnb - JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+[Eventbrite JavaScript Coding Style Guide](https://github.com/eventbrite/javascript) (Includes ES6 and JSX)
+
 
 ### Misc
 [Linux Coding Style](https://www.kernel.org/doc/Documentation/CodingStyle)
